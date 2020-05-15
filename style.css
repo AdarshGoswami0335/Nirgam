@@ -1,0 +1,39 @@
+.nav{
+    height:50px;
+    background:orange;
+}
+.nav div{
+    display:inline-block;
+    position:absolute;
+    left:0;
+    padding:15px;
+    font-size: 20px;
+    color:white;
+}
+.nav ul{
+    position:absolute;
+    right:5px;
+}
+.nav ul li{
+    display:inline-block;
+}
+.nav ul li a{
+    color:white;
+    padding:5px;
+}
+.home{
+    background: url(nature.jpg);
+    background-size: cover;
+    height:100vh;
+}
+h1{
+    text-align: center;
+    text-align: right;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    height:90vh;
+    text-decoration: underline;
+    
+}
+
